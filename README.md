@@ -9,3 +9,5 @@ WebSite：https://lss.vip Link sharing service
 做一个属于自己的推广应用平台。
 
 你也可以任意的添加链接和修改内容。
+
+提交链接可以发邮件到msts4@qq.com
